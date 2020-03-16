@@ -2,8 +2,8 @@
 Read and write messages from Azure service bus.
 
 Before running the file make sure to change following keys,
-> **<ENDPOINT_URL>** - Your Azure endpoint URL.\n
-> **<QUEUE_NAME>** - Queue name.
+- **<ENDPOINT_URL>** - Your Azure endpoint URL.
+- **<QUEUE_NAME>** - Queue name.
 
 
 After making changes just run the program as Main method.
